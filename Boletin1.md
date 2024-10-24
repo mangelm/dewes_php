@@ -16,5 +16,3 @@ Indique en qué capa (presentación, negocio, persistencia) se ubica cada una de
 ## 3. Tecnologías para Funciones en una Aplicación Web
 Proponga una o varias tecnologías de desarrollo para cada una de las funciones del ejercicio anterior (CSS, JavaScript, HTML, JSP, JDBC).
 
-## 4. Reserva de Vuelos en Línea
-Conéctese a una aplicación de reserva de vuelos online e identifique al menos dos funciones para cada capa.
